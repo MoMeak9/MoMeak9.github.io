@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MoMeak9.github.io/</id>
     <title>LightWorld辉光世界</title>
-    <updated>2020-01-23T13:35:05.316Z</updated>
+    <updated>2020-01-23T13:59:04.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://MoMeak9.github.io/"/>
     <link rel="self" href="https://MoMeak9.github.io/atom.xml"/>
@@ -10,4 +10,42 @@
     <logo>https://MoMeak9.github.io/images/avatar.png</logo>
     <icon>https://MoMeak9.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, LightWorld辉光世界</rights>
+    <entry>
+        <title type="html"><![CDATA[【第三周目】启动！]]></title>
+        <id>https://MoMeak9.github.io/post/di-san-zhou-mu-qi-dong</id>
+        <link href="https://MoMeak9.github.io/post/di-san-zhou-mu-qi-dong">
+        </link>
+        <updated>2020-01-23T13:35:55.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://MoMeak9.github.io//post-images/1579787936749.png" alt="" loading="lazy"></figure>
+<h2 id="服务器配置"><strong>服务器配置</strong></h2>
+<p>志强铂金8180 2H4G4Mbps</p>
+<h2 id="计划时间表"><strong>计划时间表</strong></h2>
+<p>2020年1月10日 第三周目正式启动<br>
+1月20日 世界扩张至10K格，镇长竞选开始<br>
+2月10日 世界扩张至20K格<br>
+2月20日 公布世界seed<br>
+3月20日 开启新城镇出生点并开始镇长竞选</p>
+<h2 id="周目特性"><strong>周目特性</strong></h2>
+<p>所有世界死亡不掉落<br>
+不限制高频红石<br>
+允许使用一切版本特性<br>
+开启动态地图Daymap<br>
+跟进最新版本1.16</p>
+<h2 id="玩家自制制度"><strong>玩家自制制度</strong></h2>
+<h3 id="玩家委员会制度"><strong>玩家委员会制度</strong></h3>
+<p>  服务器的日常管理和监察均由玩家委员会负责。玩家委员会是由最初腐竹邀请的元老玩家组成的5人元老会到现在的13人评议会。服务器给予这些玩家一定的查询权限并使其能够对服务器内的不和谐因素进行审查裁定。玩家委员会可以自主申请或者由原委员会成员邀请。</p>
+<h3 id="镇长制度"><strong>镇长制度</strong></h3>
+<p> 服务器每到一定阶段会开启不同的城镇传送点作为发展中心，每个城镇会选举一名镇长作为新城镇的规划者。<br>
+ 当然镇长是有薪资的哦！</p>
+<h2 id="历史回顾">历史回顾</h2>
+<p><strong>2019年3月</strong><br>
+沿袭2017年创建的Mod服务器，开启1.12.2原版生存<br>
+<strong>2019年4月</strong><br>
+服务器正式更名为LightWorld辉光世界，1.13.2第一周目启动<br>
+<strong>2019年7月</strong><br>
+1.14.4第二周目正式启动<br>
+<strong>2020年1月</strong><br>
+1.15.+第三周目开启</p>
+]]></content>
+    </entry>
 </feed>
