@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MoMeak9.github.io/</id>
     <title>LightWorld辉光世界</title>
-    <updated>2020-01-23T14:06:30.665Z</updated>
+    <updated>2020-01-23T14:08:08.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://MoMeak9.github.io/"/>
     <link rel="self" href="https://MoMeak9.github.io/atom.xml"/>
@@ -52,5 +52,29 @@
 1.15.+第三周目开启<br>
 <img src="https://MoMeak9.github.io//post-images/1579788238617.png" alt="" loading="lazy"></p>
 ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于我们]]></title>
+        <id>https://MoMeak9.github.io/post/about</id>
+        <link href="https://MoMeak9.github.io/post/about">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<center> 😁本服是公益服并且愿意承担虚假宣传的一切后果😁
+<p><strong><font size="5" color="red">正版准入</font></strong><br>
+<img src="https://MoMeak9.github.io//post-images/1579786345369.png" alt="" loading="lazy"></p>
+<p><strong>LightWorld辉光世界始创于2019年3月14日</strong></p>
+<p><strong>这里是一个原生态的Minecraft世界</strong></p>
+<p><strong>这里没有纷繁复杂的插件系统</strong></p>
+<p><strong>我们允许玩家利用所有的MC原版“特性”</strong></p>
+<p><strong>服务器内不限制红石、漏斗、流水</strong></p>
+<p><strong>这里是一个和谐友爱的社区</strong></p>
+<p><strong>这里是【LightWorld】辉光世界</strong></p>
+<p><strong>由我们一同创建的MC公益社区</strong></p>
+<hr>
+<p><font size="4"><strong>官方QQ群:770125832</strong></font><br>
+<img src="https://MoMeak9.github.io//post-images/1579786441161.png" alt="" loading="lazy"><br>
+<img src="https://MoMeak9.github.io//post-images/1579786466599.png" alt="" loading="lazy"><br>
+<img src="https://MoMeak9.github.io//post-images/1579786630556.png" alt="" loading="lazy"></p>
+</center>]]></content>
     </entry>
 </feed>
